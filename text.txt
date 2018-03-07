@@ -3,4 +3,8 @@ hello i'm not paulo' >> text.txt
 
 
 this is a triumph
+
 Ivanka is missing, reward will be given to those who find her
+
+this is gonna crash
+
